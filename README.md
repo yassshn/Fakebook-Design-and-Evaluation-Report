@@ -19,8 +19,7 @@ security through robust protocols and frameworks.
 3. [Security Protocols](#security-protocols)
 4. [Attacker Model and Mitigation](#attacker-model-and-mitigation)
 5. [Recommendations](#recommendations)
-6. [Contributors](#contributors)
-7. [References](#references)
+6. [References](#references)
 
 ---
 
